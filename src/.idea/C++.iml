@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/GraphicsMain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GText.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Card.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Human.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Deck.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GButton.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GameLogic.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GTexture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hand.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SidePot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SidePot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GCard.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GameLogic.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Human.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Deck.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GTexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GraphicsMain.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GraphicsTest.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GText.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hand.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GButton.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GCard.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GraphicsTest.h" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.9.3/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.9.3/include-fixed" />
+          <root url="file://C:/MinGW/include" />
+          <root url="file://C:/mingw-dev-lib/SDL2_image-2.0.1/i686-w64-mingw32/include/SDL2" />
+          <root url="file://C:/mingw-dev-lib/SDL2-2.0.4/i686-w64-mingw32/include/SDL2" />
+          <root url="file://C:/mingw-dev-lib/SDL2_ttf-2.0.14/i686-w64-mingw32/include/SDL2" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.9.3/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.9.3/include-fixed" />
+          <root url="file://C:/MinGW/include" />
+          <root url="file://C:/mingw-dev-lib/SDL2_image-2.0.1/i686-w64-mingw32/include/SDL2" />
+          <root url="file://C:/mingw-dev-lib/SDL2-2.0.4/i686-w64-mingw32/include/SDL2" />
+          <root url="file://C:/mingw-dev-lib/SDL2_ttf-2.0.14/i686-w64-mingw32/include/SDL2" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
